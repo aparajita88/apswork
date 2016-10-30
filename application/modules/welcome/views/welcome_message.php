@@ -1,0 +1,1 @@
+<?php echo substr(create_guid(),0,16);?>
